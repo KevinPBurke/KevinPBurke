@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Multi-Discipline Software Engineering Architect with an esoteric background spanning 45 years of software development.   I've worked on anything from 4 & 8 bit microprocessor coding (micro code, machine code and assembler), mini computer and mainframe software development, personal computer software (windows, mac, linux), mobile development (wml, xhtml, iOS, Android, iPad OS), and Cloud Infrastructure, Micro Service and Software (AWS, GCP, Azure, VMWare, ProxMox).  Additionally I've worked in electrical and electronics engineering projects ranging from analog telephone circuits, pbx, video, radio (lf, AM, hf, FM, vhf and uhf), television (cctv, vhf and uhf), TTL, microcomputer and microcontroller circuitry design.
+I'm Kevin, a multi-Discipline Software Engineering Architect with an esoteric background spanning 45 years of software development.   I've worked on most things from 4 & 8 bit microprocessor coding (micro code, machine code and assembler), mini computer and mainframe software development, personal computer software (windows, mac, linux), mobile development (wml, xhtml, iOS, Android, iPad OS), and Cloud Infrastructure, Micro Service and Software (AWS, GCP, Azure, VMWare, ProxMox).  Additionally I've worked in electrical and electronics engineering projects ranging from analog telephone circuits, pbx, video, radio (lf, AM, hf, FM, vhf and uhf), television (cctv, vhf and uhf), TTL, microcomputer and microcontroller circuitry design.
 
 🔭 Current research:
 
