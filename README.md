@@ -5,7 +5,7 @@ I'm Kevin, a multi-media artist and multi-Discipline Software Engineering Archit
 
 🔭 Current research:
 
-- a multi-year study into the practical and ethical application of AI tools for software & cloud infrastructure engineering. _how does one become the mythical 10x developer without sacficing one's life and morals._
+- a multi-year study into the practical and ethical application of AI tools for software & cloud infrastructure engineering. _how does one become the mythical 10x developer without sacrificing one's personal life and/or morals._
 - methods of making secure home and mobile/small office systems accessible to non-technical users.
 - virtual distributed (both on and off cloud) infrastructure services for distributed teams and digital nomad scenarios; including distributed raid, virtual pbx & identity services.
 
